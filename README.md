@@ -1,4 +1,4 @@
-# Random Question Generator
+# Random Question Generator 
 
 This Python script generates two random interview-style questions: one from a set of STAR (Situation, Task, Action, Result) questions and one from a set of more general questions. It collects user input for both questions and saves the answers in separate text files so you can use them to refer back to. 
 
